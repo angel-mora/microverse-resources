@@ -22,6 +22,7 @@ https://designshack.net/articles/css/5-steps-to-drastically-improve-your-css-kno
 
 - https://htmldog.com/
 - https://learn.shayhowe.com/html-css/building-your-first-web-page/
+- http://wtfhtmlcss.com/
 
 ## GIT
 
