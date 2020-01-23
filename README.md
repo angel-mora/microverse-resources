@@ -17,6 +17,7 @@
 - CSS flexbox https://css-tricks.com/snippets/css/a-guide-to-flexbox/ 
 - Main topics to improve:
 https://designshack.net/articles/css/5-steps-to-drastically-improve-your-css-knowledge-in-24-hours/
+https://devdocs.io/css/
 
 ## GENERAL WEB DEVELOPMENT
 
