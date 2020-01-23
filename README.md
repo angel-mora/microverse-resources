@@ -85,6 +85,7 @@ Hacking motivation
 # HOW TO START RAW ON WEB DEVELOPMENT PROJECTS
  Guide to use Jekyll
  Documentation and good practices
+ https://adueck.github.io/good-clean-read/#fnref:1
 
 # JAVASCRIPT
 
