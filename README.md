@@ -124,4 +124,9 @@ While declares variable first and then it runs function
 In situations when we want a loop to execute an undetermined number of times, while loops are the best choice.
 Unlike the while loop, *do...while* will run at least once whether or not the condition evaluates to true.
 
+# FOR WRITING
+http://www.hemingwayapp.com/
+deepl.com
+grammarly
+
 
