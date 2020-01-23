@@ -78,6 +78,11 @@ submit to codecamp
 
 
 # HOW TO KEEP MOTIVATED TO SUCCEED IN WEB DEVELOPMENT
+noFap
+Attention Revolution
+Hacking motivation
 
-
+# HOW TO START RAW ON WEB DEVELOPMENT PROJECTS
+ Guide to use Jekyll
+ Documentation and good practices
 
