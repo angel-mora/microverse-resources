@@ -18,6 +18,8 @@
 - Main topics to improve:
 https://designshack.net/articles/css/5-steps-to-drastically-improve-your-css-knowledge-in-24-hours/
 https://devdocs.io/css/
+- Learn how to position things in CSS
+https://medium.com/@mautayro/understanding-css-position-display-float-87f9727334b2
 
 ## GENERAL WEB DEVELOPMENT
 
