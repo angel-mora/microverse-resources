@@ -86,3 +86,41 @@ Hacking motivation
  Guide to use Jekyll
  Documentation and good practices
 
+# JAVASCRIPT
+
+freeCodeCamp is a great source!
+
+## Reverse a string
+https://www.quora.com/How-do-you-reverse-a-string-in-JavaScript
+
+Some arrays methods that are available to JavaScript developers include: .join(), .slice(), .splice(), .shift(), .unshift(), and .concat() amongst many others. Using these built-in methods make it easier to do some common tasks when working with arrays. 
+
+## Arrays exercises to practice
+Looking for more ways to practice? Consider trying these:
+
+- Use the .length property to find the last element of an array.
+- Use the other methods in MDN documentation not mentioned in the lesson.
+- Take all the elements in an array and make a string.
+- Find the return value of calling .push() on an array.
+- Nest an array within an array.
+- Access an element in the nested array.
+
+## Loop function basic structure
+
+```
+for (let i = 0; i < bobsFollowers.length; i++) {
+  for (let j = 0; j < tinasFollowers.length; j++) {
+    if ( bobsFollowers[i] === tinasFollowers[j] ) {
+      (mutualFollowers.push(tinasFollowers [j] ))
+     }
+  }
+} console.log(mutualFollowers) ;
+```
+
+### Difference for, while, do-while
+For stores variable inside function
+While declares variable first and then it runs function
+In situations when we want a loop to execute an undetermined number of times, while loops are the best choice.
+Unlike the while loop, *do...while* will run at least once whether or not the condition evaluates to true.
+
+
