@@ -1,4 +1,4 @@
-# BEST RESOURCES TO START ON WEB DEVELOPMENT
+# BEST RESOURCES TO START ON WEB DEVELOPMENT / WEB RESOURCES LIBRARY
 
 ## HTML LINKS
 
@@ -6,8 +6,10 @@
 - https://www.crummy.com/software/BeautifulSoup/bs4/doc/
 - https://h5p.org/
 - https://cssnewbie.com/top-10-html-css-books-developers/#.Xhz91COjlhE
-- **BEST RESOURCE TO LEARN HTML** https://www.htmldog.com/
-- Validate HTML https://validator.w3.org/#validate_by_upload+with_options
+
+## BEST RESOURCE TO LEARN HTML
+- https://www.htmldog.com/
+- Validate HTML with https://validator.w3.org/#validate_by_upload+with_options
 
 ## CSS LINKS
 
@@ -20,6 +22,7 @@ https://designshack.net/articles/css/5-steps-to-drastically-improve-your-css-kno
 https://devdocs.io/css/
 - Learn how to position things in CSS
 https://medium.com/@mautayro/understanding-css-position-display-float-87f9727334b2
+- There are the kitchen and the flex games to learn!
 
 ## GENERAL WEB DEVELOPMENT
 
@@ -40,7 +43,15 @@ https://medium.com/@mautayro/understanding-css-position-display-float-87f9727334
 
 ## TO IMPROVE TERMINAL
 
-https://medium.com/@shivam1/make-your-terminal-beautiful-and-fast-with-zsh-shell-and-powerlevel10k-6484461c6efb
+- https://medium.com/@shivam1/make-your-terminal-beautiful-and-fast-with-zsh-shell-and-powerlevel10k-6484461c6efb
+
+## JAVASCRIPT FULL STACK
+
+- https://fullstackopen.com/en/about/
+
+Other javascript resources:
+
+- 
 
 VSCode instead of Sublime Text
 
