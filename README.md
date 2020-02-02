@@ -20,6 +20,11 @@ https://designshack.net/articles/css/5-steps-to-drastically-improve-your-css-kno
 https://devdocs.io/css/
 - Learn how to position things in CSS
 https://medium.com/@mautayro/understanding-css-position-display-float-87f9727334b2
+#css
+float-first
+http://complexspiral.com/publications/containing-floats/
+https://jsfiddle.net/fc_anjos/znkr0w9e/9/
+
 
 ## GENERAL WEB DEVELOPMENT
 
