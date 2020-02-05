@@ -28,7 +28,7 @@ https://medium.com/@mautayro/understanding-css-position-display-float-87f9727334
 
 - https://htmldog.com/
 - https://learn.shayhowe.com/html-css/building-your-first-web-page/
-- http://wtfhtmlcss.com/
+- http://wtfhtmlcss.com/ 
 
 ## GIT
 
