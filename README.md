@@ -22,7 +22,15 @@ https://designshack.net/articles/css/5-steps-to-drastically-improve-your-css-kno
 https://devdocs.io/css/
 - Learn how to position things in CSS
 https://medium.com/@mautayro/understanding-css-position-display-float-87f9727334b2
+<<<<<<< HEAD
 - There are the kitchen and the flex games to learn!
+=======
+#css
+float-first
+http://complexspiral.com/publications/containing-floats/
+https://jsfiddle.net/fc_anjos/znkr0w9e/9/
+
+>>>>>>> master
 
 ## GENERAL WEB DEVELOPMENT
 
@@ -55,6 +63,11 @@ Other javascript resources:
 
 VSCode instead of Sublime Text
 
+# FOR WRITING
+- http://www.hemingwayapp.com/
+- deepl.com
+- grammarly
+- spreeder
 
 ADD MOTIVATION TO KEEP PROGRESSING IN THIS ATTENTION ECONOMY ERA
 THIS IS AN ARTICLE WITH THE BEST OF THE BEST WHEN YOU ARE STUCK
@@ -136,10 +149,5 @@ For stores variable inside function
 While declares variable first and then it runs function
 In situations when we want a loop to execute an undetermined number of times, while loops are the best choice.
 Unlike the while loop, *do...while* will run at least once whether or not the condition evaluates to true.
-
-# FOR WRITING
-http://www.hemingwayapp.com/
-deepl.com
-grammarly
 
 
