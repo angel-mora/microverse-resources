@@ -50,9 +50,10 @@ https://medium.com/@shivam1/make-your-terminal-beautiful-and-fast-with-zsh-shell
 VSCode instead of Sublime Text
 
 # FOR WRITING
-http://www.hemingwayapp.com/
-deepl.com
-grammarly
+- http://www.hemingwayapp.com/
+- deepl.com
+- grammarly
+- spreeder
 
 ADD MOTIVATION TO KEEP PROGRESSING IN THIS ATTENTION ECONOMY ERA
 THIS IS AN ARTICLE WITH THE BEST OF THE BEST WHEN YOU ARE STUCK
