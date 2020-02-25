@@ -30,6 +30,11 @@ float-first
 http://complexspiral.com/publications/containing-floats/
 https://jsfiddle.net/fc_anjos/znkr0w9e/9/
 
+When to use Flexbox and when Grid
+https://www.webdesignerdepot.com/2018/09/grid-vs-flexbox-which-should-you-choose/
+
+How to use CSS Media queries max and min width (https://zellwk.com/blog/how-to-write-mobile-first-css/)
+
 ## GENERAL WEB DEVELOPMENT
 
 - https://htmldog.com/
