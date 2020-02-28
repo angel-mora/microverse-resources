@@ -47,11 +47,12 @@ How to use CSS Media queries max and min width (https://zellwk.com/blog/how-to-w
 - https://try.github.io/levels/1/challenges/1
 - https://www.codecademy.com/articles/push-to-github
 - Great resource https://github.com/Kunena/Kunena-Forum/wiki/Create-a-new-branch-with-git-and-manage-branches
+gitexplorer.com
 
 ## DESIGN
 
 - Get icons at https://fontawesome.com/
-
+Beautiful websites: https://hookagency.com/website-color-schemes/
 ## TO IMPROVE TERMINAL
 
 - https://medium.com/@shivam1/make-your-terminal-beautiful-and-fast-with-zsh-shell-and-powerlevel10k-6484461c6efb
@@ -97,6 +98,8 @@ Talk about How to Learn
 Use Chrome Developer Tools
 Clone Sites
 Find a Coding Partner
+
+https://80000hours.org/ to make an effective change and get motivated.
 
 ## Conclusion: 
 
@@ -153,4 +156,10 @@ While declares variable first and then it runs function
 In situations when we want a loop to execute an undetermined number of times, while loops are the best choice.
 Unlike the while loop, *do...while* will run at least once whether or not the condition evaluates to true.
 
+# HOSTING
+General price comparison: gandi.net
+alternativeto.net
+https://www.ovh.com/world/es/ for servers
 
+# PROFESSIONAL SKILLS
+https://flowcv.io/login
