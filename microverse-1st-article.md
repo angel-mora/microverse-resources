@@ -272,7 +272,7 @@ Follow me on Twitter or LinkedIn to get a special referal: @angelmoma_
 
 ## Some extra references
 
-You feeling stuck with adult content on the internet? Trust [noFap]().
-Can't you focus for more than 30 seconds? Read [Attention Revolution]().
-Feeling overwhelmed? Try [Hacking motivation]().
-Get inspired by this [hacker manifesto]() or Kevin Mitnick's [work]().
+- You feeling stuck with adult content on the internet? Trust [noFap]().
+- Can't you focus for more than 30 seconds? Read [Attention Revolution]().
+- Feeling overwhelmed? Try [Hacking motivation]().
+- Get inspired by this [hacker manifesto]() or Kevin Mitnick's [work]().
