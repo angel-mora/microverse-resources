@@ -1,6 +1,6 @@
 # THE ULTIMATE GUIDE TO HACK YOUR MOTIVATION FOR LEARNING TO CODE!
 
-*This is a life-changing article for you. If you follow it until the end, you'll find yourself having your first webpage is just a few minutes. It doesn't matter if you have never done this before.*
+*This is a very motivating article for you. If you follow it until the end, you'll find yourself having your first webpage is just a few minutes. It doesn't matter if you have never done this before.*
 
 I'm pressuming a very simple yet validated hypothesis:
 
@@ -20,7 +20,7 @@ Yet again, how can you start to do something so challenging and keep motivation 
 
 But doing so is, I won't lie to you, actually hard. As our attention span decreases, our motivation to do things that get us out of our confort zone is decreasing too. I recently joined Microverse Web Development Bootcamp and I'll tell you some of the things that worked for me. I'll be honest with you. Before I started preparing for Microverse bootcamp, I didn't have enough motivation to trust myself I could achieve the goal of master web development.
 
-One of those days, I remembered (Motivation hacker)[]Mr Jekyll and Mr Hide.
+You can get a good review of Motivation hacker [here](https://www.evernote.com/shard/s4/client/snv?noteGuid=ed74279f-29ba-470b-99c1-31387f5ea5fa&noteKey=6189febf5d13ded1d38706e54fd05daa&sn=https%3A%2F%2Fwww.evernote.com%2Fshard%2Fs4%2Fsh%2Fed74279f-29ba-470b-99c1-31387f5ea5fa%2F6189febf5d13ded1d38706e54fd05daa&title=The%2BMotivation%2BHacker).
 
 Now that everything has stopped, time is the best investment you can do and probably you are giving it to Facebook, Netflix, Youtube, Amazon Prime or some adult entretainment company. That time you are waisting can be useful to make you a valuable asset to rebuild our economies and get you in a better employment situation and probably will give you some agency over the current status of the world.
 
@@ -166,7 +166,7 @@ I think the same applies to most of knowledge. Understanding an specific object 
 
 As time flows, you'll find yourself more into the way Git works or Bootstrap, or you might want to style it with some CSS. But for now there's a delivered product that iterates a very superficial yet crucial layer or level of knowledge inside your mind. So Mastery is less about knowing all concepts and codes by heart and more about being able to deliver a quality product for some given specifications with our current capabilities. There's something about that I learned through Microverse and I love it.
 
-You start by cloning websites and suddenly you find yourself catching up some of the most important concepts of Web Design, such as CSS Flexbox or Grid. For CSS, one of my favorites was (this one)[https://designshack.net/articles/css/5-steps-to-drastically-improve-your-css-knowledge-in-24-hours/]. You don't have to be an expert to be successful. Just master things.
+You start by cloning websites and suddenly you find yourself catching up some of the most important concepts of Web Design, such as CSS Flexbox or Grid. For CSS, one of my favorites was [this one](https://designshack.net/articles/css/5-steps-to-drastically-improve-your-css-knowledge-in-24-hours/). You don't have to be an expert to be successful. Just master things.
 
 Let's start the list now:
 
@@ -180,21 +180,21 @@ So remember our adapted mantra:
 
 There's an old saying when starting to code: *RTFM*. It stands for *Read the f\* manual*. And that's because most of us don't read manuals. How do you want to understand something if not by reading its instructions?
 
-However, remembering our breathe first strategy, you can also start by watching a YouTube tutorial just to get familiar with the general features of what you want to learn. I also read articles a lot. But the most important is to classify the content you liked the most to create a good links collection. For those purposes, I highly recommend you (pinboard.in)[url].
+However, remembering our breathe first strategy, you can also start by watching a YouTube tutorial just to get familiar with the general features of what you want to learn. I also read articles a lot. But the most important is to classify the content you liked the most to create a good links collection. For those purposes, I highly recommend you [pinboard.in](https://pinboard.in/u:angelmoma).
 
 Try to review you collection and start writing articles to give them a narrative flow. If you ever stuck by not knowing how to write some processes down, trust this sources:
 
-- Use (Hemingway)[http://www.hemingwayapp.com/] to make yourself readable.
-- Translate every word with (Deepl)[url].
-- Check your grammar with (Grammarly)[url].
-- Read faster with (Spreeder)[url].
+- Use [Hemingway](http://www.hemingwayapp.com/) to make yourself readable.
+- Translate every word with [Deepl](url).
+- Check your grammar with [Grammarly](url).
+- Read faster with [Spreeder](url).
 
 In the long term, this notes will help you to easily remember things you want to review.
 Don't forget that Google will become your best ally. Also Stackoverflow.
 
 ### Play around
 
-With this I literally mean play games. There are too many interactive games out there to help you get the most out of your learning experience. I highly recommend (mastery.games)[url] to learn Flexbox and Grid.
+With this I literally mean play games. There are too many interactive games out there to help you get the most out of your learning experience. I highly recommend [mastery.games](https://mastery.games/) to learn Flexbox and Grid.
 
 ### Get involved
 
@@ -243,7 +243,7 @@ Like those for gamers, good sound and good mic.
 
 - Make tutorials. Every time you are explaining something to someone else you learn a bit more how it actually works. That's why recording yourself showing off (always with humbleness) your projects or what you know is a good way to get some eyes on your work and might even help you reach some customers.
 - Also review your work. Always look for best practices and linters to highlight and show in terminal your errors.
-- Set a portfolio. There are many templates you can use, most of them are responsive. If you want to include your CV on it, I highly recommend (Flow CV)[https://flowcv.io/login].
+- Set a portfolio. There are many templates you can use, most of them are responsive. If you want to include your CV on it, I highly recommend [Flow CV](https://flowcv.io/login).
 
 ### Take your time (but not too long to get bored)
 
@@ -272,7 +272,7 @@ Follow me on Twitter or LinkedIn to get a special referal: @angelmoma_
 
 ## Some extra references
 
-You feeling stuck with adult content on the internet? Trust (noFap)[url].
-Can't you focus for more than 30 seconds? Read (Attention Revolution)[url].
-Feeling overwhelmed? Try (Hacking motivation)[url].
-Get inspired by this (hacker manifesto)[url] or (Kevin Mitnick's work)[url].
+You feeling stuck with adult content on the internet? Trust [noFap]().
+Can't you focus for more than 30 seconds? Read [Attention Revolution]().
+Feeling overwhelmed? Try [Hacking motivation]().
+Get inspired by this [hacker manifesto]() or Kevin Mitnick's [work]().
