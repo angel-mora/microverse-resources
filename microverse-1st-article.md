@@ -2,17 +2,17 @@
 
 *This is a very motivating article for you. If you follow it until the end, you'll find yourself having your first webpage is a few minutes. It doesn't matter if you have never done this before.*
 
-I'm presuming a very simple yet validated hypothesis:
+I'm assuming a very simple yet validated hypothesis:
 
 > Attention is our most valuable form of capital nowadays.
 
-Corporations, marketing, and some other industries know it and are developing technologies to catch our attention 24/7. There are a lot, A LOT of distractions nowadays. Each of them lasts no more than 30 seconds and most of them become addictive. Adult entertainment or addiction to certain social networks can easily catch you up. Especially if you are a Millennial. Millennials struggle a lot to figure out what to do. We want to solve all kinds of trouble out there but we can't keep focused on one only thing for more than that half a minute.
+Corporations, marketing, and some other industries know it and are developing technologies to catch our attention 24/7. There are a lot, A LOT of distractions nowadays. Each of them lasts no more than 30 seconds and most of them become addictive. Adult entertainment or addiction to certain social networks can easily catch you up. Especially if you are a millennial. Millennials struggle a lot to figure out what to do. We want to solve all kinds of trouble out there but we can't keep focused on one only thing for more than that half a minute.
 
-And there's a reason for that. Some companies invest millions of dollars trying to catch your attention. It's so hard to keep focus nowadays and probably the last thing we want is to use our attention to do something hard, frustrating and uncomfortable.
+And there's a reason for that. Some companies invest millions of dollars trying to catch our attention. It's so hard to keep focus nowadays and probably the last thing we want is to use our attention to do something hard, frustrating and uncomfortable.
 
-On the other side, there's a veil of wisdom surrounding programmers. It's not like that. It's just people who committed a lot in getting a goal and finding the motivation to keep going. Yet Web Development and Data Science, a couple of frustrating code-related things to learn, are some of the best well-payed careers in the US. And guess what, remote work is a very popular practice among programmers. Now, most computer-related jobs have become remote worldwide and chances to get a remote job in a global tech brand have increased.
+On the other hand, there's a veil of wisdom surrounding programmers. It's not like that. It's just people who committed a lot in getting a goal and finding the motivation to keep going. Yet Web Development and Data Science, a couple of frustrating code-related things to learn, are some of the best well-payed careers in the US. And guess what, remote work is a very popular practice among programmers. Now, most computer-related jobs have become remote worldwide and chances to get a remote job in a global tech brand have increased.
 
-So the best thing one could do if want to have a good job and live a good life is to get into the new digital economy. Programming is not only about hacking and binary numbers. For me, it's about simpler things such as Logic and counting. As resources scarce and COVID-19 stops the world economy, programming becomes even more necessary. These violent economic fluctuations will leave a lot of people without a job. They will bring a lot of social struggle. But if you are able to deal with complexity through algorithmic thinking you will be capable of imagining how a post-work world can be. One where we all can work 4-hours shifts and democratically enjoy the benefits of automation. If this sounded to you, you can also check [80,000 hours](https://80000hours.org/) to make an effective change through your professional career.
+So the best thing one could do if want to have a good job and live a good life is to get into the new digital economy. Programming is not only about hacking and binary numbers. For me, it's about simpler things such as Logic and counting. As resources scarce and COVID-19 stops the world economy, programming becomes even more necessary. These violent economic fluctuations will leave a lot of people without a job. It will bring a lot of social struggle. But if you are able to deal with complexity through algorithmic thinking you will be capable of imagining how a post-work world can be. One where we all can work 4-hours shifts and democratically enjoy the benefits of automation. If this sounded to you, you can also check [80,000 hours](https://80000hours.org/) to make an effective change through your professional career.
 
 But doing so is, I won't lie to you, actually hard. As our attention span decreases, our motivation to do things that get us out of our comfort zone is decreasing too. I recently joined Microverse Web Development Bootcamp and I'll tell you some of the things that worked for me. I'll be honest with you. Before I started Microverse Bootcamp, I didn't have enough motivation to believe I could master web development. So I researched how people can start to do something so challenging and keep motivated during the tough journey.
 
@@ -28,7 +28,7 @@ I'll start with a Ubuntu-based quick tutorial to set a live website in less than
 
 ### STEP 1: Install Visual Studio Code
 
-https://linuxize.com/post/how-to-install-visual-studio-code-on-ubuntu-18-04/
+*I based on this [article](https://linuxize.com/post/how-to-install-visual-studio-code-on-ubuntu-18-04/).*
 
 First, update the packages index and install the dependencies by typing:
 
@@ -154,7 +154,7 @@ Now go to [Bootstrap website](https://getbootstrap.com/docs/4.4/getting-started/
 
 ```
 
-### STEP 4: Upload your website using Github Pages
+### STEP 4: Upload your website using GitHub Pages
 
 Git is a bit complicated but for now, you'll be good if you follow the instructions. The proper workflow to save and upload info on your website is with the next commands:
 
@@ -194,7 +194,7 @@ In that same window, go down until you reach GitHub Pages section.
 
 In Source, select *master branch*.
 
-The browser's window will update and take you back to the beginning. Go down to find GitHub pages again. Now you'll have your site published in something like https://user.github.io/project-name
+The browser's window will update and take you back to the beginning. Go down to find GitHub pages again. Now you'll have your site published in something like https://user.GitHub.io/project-name
 
 and *voilá*, you have your first site up and running.
 
