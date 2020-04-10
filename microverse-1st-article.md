@@ -12,7 +12,7 @@ And there's a reason for that. Some companies invest millions of dollars trying 
 
 On the other hand, there's a veil of wisdom surrounding programmers. It's not like that. It's just people who committed a lot in getting a goal and finding the motivation to keep going. Yet Web Development and Data Science, a couple of frustrating code-related things to learn, are some of the best well-payed careers in the US. And guess what, remote work is a very popular practice among programmers. Now, most computer-related jobs have become remote worldwide and chances to get a remote job in a global tech brand have increased.
 
-So the best thing one could do if want to have a good job and live a good life is to get into the new digital economy. Programming is not only about hacking and binary numbers. For me, it's about simpler things such as Logic and counting. As resources scarce and COVID-19 stops the world economy, programming becomes even more necessary. These violent economic fluctuations will leave a lot of people without a job. It will bring a lot of social struggle. But if you are able to deal with complexity through algorithmic thinking you will be capable of imagining how a post-work world can be. One where we all can work 4-hours shifts and democratically enjoy the benefits of automation. If this sounded to you, you can also check [80,000 hours](https://80000hours.org/) to make an effective change through your professional career.
+So the best thing one could do if want to have a good job and live a good life is to get into the new digital economy. Programming is not only about hacking and binary numbers. For me, it's about simpler things such as Logic and counting. As resources scarce and COVID-19 stops the world economy, programming becomes even more necessary. These violent economic fluctuations will leave a lot of people without a job. It will bring a lot of social struggle. But if you are able to deal with complexity through algorithmic thinking you will be capable of imagining how a post-work world can be. One where we all can work 4-hours shifts and democratically enjoy the benefits of automation. If you want to know more, you can check [80,000 hours](https://80000hours.org/) to make an effective change through your professional career.
 
 But doing so is, I won't lie to you, actually hard. As our attention span decreases, our motivation to do things that get us out of our comfort zone is decreasing too. I recently joined Microverse Web Development Bootcamp and I'll tell you some of the things that worked for me. I'll be honest with you. Before I started Microverse Bootcamp, I didn't have enough motivation to believe I could master web development. So I researched how people can start to do something so challenging and keep motivated during the tough journey.
 
@@ -200,7 +200,7 @@ and *voilá*, you have your first site up and running.
 
 ## PART 2: Follow these 10 habits if you want to succeed
 
-As you can see, deliver a website is very easy. And the way we focused on one single project, gave us enough fulfillment to keep reading. Now I will recall Steve Yegge's [advice]() on how to learn to math for programmers. He says:
+As you can see, deliver a website is very easy. And the way we focused on one single project, gave us enough fulfillment to keep reading. Now I will recall Steve Yegge's [advice](http://steve-yegge.blogspot.com/2006/03/math-for-programmers.html) on how to learn to math for programmers. He says:
 
 > The right way to learn math is breadth-first, not depth-first. You need to survey the space, learn the names of things, figure out what's what.
 
@@ -326,14 +326,14 @@ Let's recall the advice:
 
 As Codecademy says, learning to code will help you in every aspect of your life. It will have effects not only in your income but it will also make you see problems as opportunities to deliver creative solutions. If you liked these habits I am sharing, you should seriously consider joining Microverse Bootcamp.
 
-Follow me on Twitter or LinkedIn to get a special referral: @angelmoma_
+Follow me on [Twitter](https://twitter.com/angelmoma_) or [LinkedIn](https://www.linkedin.com/in/angelmoma/) to get a special referral.
 
 ## Some extra references
 
-- Are you feeling stuck with adult content on the internet? Trust [noFap]().
+- Are you feeling stuck with adult content on the internet? Trust [noFap](https://nofap.com/).
 
-- Can't you focus for more than 30 seconds? Read [Attention Revolution]().
+- Can't you focus for more than 30 seconds? Read [Attention Revolution](https://www.goodreads.com/book/show/64084.The_Attention_Revolution).
 
-- Feeling overwhelmed? Try [Hacking motivation]().
+- Feeling overwhelmed? Try [Hacking motivation](http://www.nickwinter.net/the-motivation-hacker).
 
-- Get inspired by this [hacker manifesto]() or Kevin Mitnick's [work]().
+- Get inspired by this [hacker manifesto](https://www.amazon.com/Hacker-Manifesto-McKenzie-Wark/dp/0674015436) or Kevin Mitnick's [work](https://www.amazon.com/Art-Intrusion-Exploits-Intruders-Deceivers/dp/0471782661).
