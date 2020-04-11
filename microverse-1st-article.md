@@ -20,9 +20,7 @@ That's when I read Motivation hacker (you can get a good review of it [here](htt
 
 Now that everything has stopped, time is your most valuable asset. And you are giving it to Facebook, Netflix, Youtube, Amazon Prime or some adult entertainment company. That time could make you a valuable asset to rebuild our societies or get you in a more fulfilling employment situation.
 
-In my personal experience... Microverse is a great help and I'll explain to you why with these recommendations to learn to code.
-
-I'll start with a Ubuntu-based quick tutorial to set a live website in less than 30 minutes.
+In my personal experience, Microverse is a great help and I'll explain to you why with these recommendations to learn to code. I'll start with a Ubuntu-based quick tutorial to set a live website in less than 30 minutes.
 
 ## PART 1: The Tutorial
 
@@ -66,7 +64,7 @@ $ sudo apt install code
 
 ```
 
-That’s it. Visual Studio Code has been installed on your Ubuntu desktop and you can start using it
+That’s it. Visual Studio Code has been installed on your Ubuntu desktop and you can start using it.
 
 ### STEP 2: Create a GitHub repository
 
@@ -228,11 +226,11 @@ Try to review your collection and start writing articles to give them a narrativ
 
 - Use [Hemingway](http://www.hemingwayapp.com/) to make yourself readable.
 
-- Translate every word with [Deepl](url).
+- Translate every word with [Deepl](https://www.deepl.com/translator).
 
-- Check your grammar with [Grammarly](url).
+- Check your grammar with [Grammarly](https://www.grammarly.com/).
 
-- Read faster with [Spreeder](url).
+- Read faster with [Spreeder](https://www.spreeder.com/).
 
 In the long term, these notes will help you to easily remember things you want to review.
 
